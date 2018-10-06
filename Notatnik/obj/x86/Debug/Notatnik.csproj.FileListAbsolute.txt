@@ -1,0 +1,14 @@
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\obj\x86\Debug\Notatnik.Form1.resources
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\obj\x86\Debug\Notatnik.Properties.Resources.resources
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\obj\x86\Debug\Notatnik.csproj.GenerateResource.Cache
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\obj\x86\Debug\Notatnik.exe
+C:\Users\epist\AppData\Local\Temporary Projects\Notatnik\obj\x86\Debug\Notatnik.pdb
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Debug\Notatnik.exe
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Debug\Notatnik.pdb
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Debug\Notatnik.Form1.resources
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Debug\Notatnik.Properties.Resources.resources
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Debug\Notatnik.csproj.GenerateResource.Cache

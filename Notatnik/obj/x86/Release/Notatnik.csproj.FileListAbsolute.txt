@@ -1,0 +1,7 @@
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\bin\Release\Notatnik.exe
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\bin\Release\Notatnik.pdb
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Release\Notatnik.Form1.resources
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Release\Notatnik.Properties.Resources.resources
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Release\Notatnik.csproj.GenerateResource.Cache
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Release\Notatnik.exe
+C:\Users\epist\Desktop\Generator Wyzwisk\Notatnik\Notatnik\obj\x86\Release\Notatnik.pdb
